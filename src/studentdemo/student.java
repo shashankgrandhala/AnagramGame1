@@ -14,7 +14,7 @@ public class student {
     private String lastname;
     private double gpa;
     private int totalCredits;
-    
+    private String college name;
     
     
     
